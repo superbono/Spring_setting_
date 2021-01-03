@@ -18,7 +18,7 @@
 <h1>
 	Hello world!  
 </h1>
+<p>홈 화면</p>
 
-<P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
